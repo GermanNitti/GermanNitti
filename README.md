@@ -1,3 +1,15 @@
+<h1 align="center">
+  Hi, I'm German 👋
+</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=CEO+of+Adaleer;Full-Stack+Developer;Building+scalable+systems;Turning+ideas+into+products"
+  />
+</p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Building%20the%20Future&fontColor=58A6FF&fontSize=40&animation=fadeIn"
+/>
 # 👋 Hi, I'm German
 
 I'm a Python developer focused on automation and data extraction.  
