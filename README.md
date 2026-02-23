@@ -14,25 +14,30 @@
   />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GermanNitti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GermanNitti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GermanNitti&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GermanNitti&theme=tokyonight&hide_border=true"
+  />
 </p>
+
+---
 
 I'm a Python developer focused on automation and data extraction.  
-Founder & CEO of Adaleer — building practical automation-driven solutions.
+Founder & CEO of **Adaleer**, building practical automation-driven solutions.
 
 ---
 
 ## 🧠 What I do
-- Process automation & workflow optimization
-- Web scraping & data extraction
-- Bots and API integrations
-- Data cleaning and transformation
+- Process automation & workflow optimization  
+- Web scraping & data extraction  
+- Bots and API integrations  
+- Data cleaning and transformation  
 
 ---
 
@@ -46,17 +51,17 @@ Founder & CEO of Adaleer — building practical automation-driven solutions.
 ---
 
 ## 🚀 What you'll find here
-- Automation and scraping projects
-- Reusable tools and scripts
-- Data-oriented workflows
-- Practical, real-world solutions
+- Automation and scraping projects  
+- Reusable tools and scripts  
+- Data-oriented workflows  
+- Practical, real-world solutions  
 
 ---
 
 ## 📫 Contact
-Website: https://adaleer.site  
-LinkedIn: https://www.linkedin.com/in/german-a-ruiz-2b0221b5/
-Email: germanalejandroruiz92dev@gmail.com
+- 🌐 Website: https://adaleer.site  
+- 💼 LinkedIn: https://www.linkedin.com/in/german-a-ruiz-2b0221b5/  
+- ✉️ Email: germanalejandroruiz92dev@gmail.com  
 
 ---
 
