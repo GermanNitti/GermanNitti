@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi, I'm German 👋
 </h1>
@@ -9,7 +8,6 @@
   />
 </p>
 
-<p>
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Building%20the%20Future&fontColor=58A6FF&fontSize=40&animation=fadeIn"
