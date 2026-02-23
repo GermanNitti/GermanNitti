@@ -1,4 +1,4 @@
-![TEST](https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_Logo.png)
+
 <h1 align="center">
   Hi, I'm German 👋
 </h1>
@@ -54,3 +54,7 @@ Founder & CEO of Adaleer — building practical automation-driven solutions.
 Website: https://adaleer.site  
 LinkedIn: https://www.linkedin.com/in/german-a-ruiz-2b0221b5/
 Email: germanalejandroruiz92dev@gmail.com
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/GermanNitti/GermanNitti/output/github-contribution-grid-snake.svg)
